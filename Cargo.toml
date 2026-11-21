@@ -1,5 +1,5 @@
 [package]
-name = "arch-rust"
+name = "sigmaos-rust"
 version = "0.1.0"
 edition = "2021"
 description = "SigmaOS SigmaOS-arch-rust component - SigmaOS component"

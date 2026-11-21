@@ -1,4 +1,4 @@
-use arch_rust::Component;
+use sigmaos_rust::Component;
 
 #[test]
 fn test_component_new_aaa() {
